@@ -1,3 +1,3 @@
 # AEP2-JOSUE
 
-crianção da classe pessoa e implementação
+Crianção da classe pessoa e implementação.
